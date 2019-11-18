@@ -1,10 +1,10 @@
 {
-  "name": "phonegap-app-developer",
-  "description": "PhoneGap Developer app.",
-  "homepage": "http://app.phonegap.com",
+  "name": "borikenprivatesociety",
+  "description": "Boriken Private Society app.",
+  "homepage": "http://www.borikenprivatesociety.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/phonegap/phonegap-app-developer.git"
+    "url": "git://github.com/SamBeniquez/phonegap-app-developer.git"
   },
   "preferGlobal": false,
   "private": true,
